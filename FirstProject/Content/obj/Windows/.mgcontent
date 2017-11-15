@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/Arial.spritefont</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/bullet.png</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/EntToStart.png</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/Green_laser.png</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/rock_large.png</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/ship.png</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/spacebg.png</File>
+    <File>L:/001 Game Programming Basics in CSharp/001 Intro To Game Programming/2017-08-16 FirstProject Recovery/FirstProject/FirstProject/Content/GameOver.png</File>
+  </SourceFiles>
+</SourceFileCollection>
